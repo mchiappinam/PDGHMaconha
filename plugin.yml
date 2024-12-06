@@ -1,0 +1,12 @@
+name: PDGHMaconha
+main: net.pdgh.maconha
+author: mchiappinam
+version: 1.0
+website: http://pdgh.net/
+commands:
+  maconha:
+    description: Fuma uma maconha
+  crack:
+    description: Fuma um crack
+  cores:
+    description: Mostra a lista de cores

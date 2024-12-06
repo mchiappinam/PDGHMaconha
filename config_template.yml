@@ -1,0 +1,8 @@
+Efeitos:
+  Maconha: true
+  Crack: true
+Kick_first: true
+Comandos:
+  Stop_lag: false
+  Cores: true
+  ReloadAliasesOnFirstWorldChange: false
